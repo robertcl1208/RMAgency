@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 320" fill="none" role="img" aria-label="Clutch-style top companies badge">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e8d48b"/>
+      <stop offset="50%" stop-color="#c9a227"/>
+      <stop offset="100%" stop-color="#9a7b2c"/>
+    </linearGradient>
+  </defs>
+  <!-- ribbon behind seal -->
+  <path fill="#1a2744" d="M8 148 L52 118 h256 l44 30 v24 l-44 30H52L8 172z"/>
+  <path fill="#152038" opacity=".35" d="M52 118h256v8H52zm0 86h256v8H52z"/>
+  <!-- white seal -->
+  <circle cx="180" cy="160" r="102" fill="#fff" stroke="url(#gold)" stroke-width="7"/>
+  <circle cx="180" cy="160" r="94" fill="#fff"/>
+  <!-- copy -->
+  <text x="180" y="118" text-anchor="middle" fill="#1f2937" font-family="system-ui,Segoe UI,sans-serif" font-size="15" font-weight="800" letter-spacing="0.12em">TOP</text>
+  <text x="180" y="140" text-anchor="middle" fill="#1f2937" font-family="system-ui,Segoe UI,sans-serif" font-size="15" font-weight="800" letter-spacing="0.08em">1000 COMPANIES</text>
+  <line x1="118" y1="152" x2="242" y2="152" stroke="#cbd5e1" stroke-width="1.5"/>
+  <!-- wordmark-style text (not official logo artwork) -->
+  <text x="180" y="182" text-anchor="middle" fill="#111827" font-family="system-ui,Segoe UI,sans-serif" font-size="28" font-weight="900">Clutch</text>
+  <circle cx="208" cy="176" r="3.2" fill="#dc2626"/>
+  <line x1="118" y1="196" x2="242" y2="196" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="180" y="218" text-anchor="middle" fill="#1f2937" font-family="system-ui,Segoe UI,sans-serif" font-size="15" font-weight="800" letter-spacing="0.1em">GLOBAL</text>
+  <text x="180" y="240" text-anchor="middle" fill="#1f2937" font-family="system-ui,Segoe UI,sans-serif" font-size="22" font-weight="900">2025</text>
+</svg>

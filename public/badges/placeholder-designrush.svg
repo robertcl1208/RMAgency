@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 140" role="img" aria-label="Design directory badge placeholder">
+  <rect width="320" height="140" rx="12" fill="#0f172a"/>
+  <rect x="16" y="16" width="288" height="108" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="2"/>
+  <text x="32" y="52" fill="#38bdf8" font-family="system-ui,sans-serif" font-size="11" font-weight="700">TOP AGENCY</text>
+  <text x="32" y="86" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="19" font-weight="800">Design &amp; Dev</text>
+  <text x="32" y="112" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="11">UI/UX · Web · Mobile</text>
+</svg>

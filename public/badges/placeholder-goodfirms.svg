@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 140" role="img" aria-label="GoodFirms badge placeholder">
+  <rect width="320" height="140" rx="12" fill="#1e3a5f"/>
+  <text x="24" y="42" fill="#7dd3fc" font-family="system-ui,sans-serif" font-size="12" font-weight="700">DIRECTORY BADGE</text>
+  <text x="24" y="78" fill="#fff" font-family="system-ui,sans-serif" font-size="20" font-weight="800">Featured Partner</text>
+  <text x="24" y="108" fill="#cbd5e1" font-family="system-ui,sans-serif" font-size="12">Software dev · Top picks 2025</text>
+</svg>

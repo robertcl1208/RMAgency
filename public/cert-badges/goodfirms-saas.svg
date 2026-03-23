@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" fill="none" role="img" aria-label="GoodFirms-style top SaaS badge">
+  <defs>
+    <linearGradient id="gfBlue2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2b7fff"/>
+      <stop offset="100%" stop-color="#155dfc"/>
+    </linearGradient>
+  </defs>
+  <circle cx="150" cy="150" r="142" fill="#fff" stroke="#2563eb" stroke-width="10"/>
+  <circle cx="150" cy="150" r="128" fill="none" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="4 6"/>
+  <rect x="118" y="38" width="64" height="64" rx="14" fill="url(#gfBlue2)"/>
+  <path d="M136 88V52h28v12h-16v8h14v12h-14v4h18v12H136z" fill="#fff"/>
+  <text x="150" y="128" text-anchor="middle" fill="#0f172a" font-family="system-ui,Segoe UI,sans-serif" font-size="20" font-weight="800">GoodFirms</text>
+  <path fill="#155dfc" d="M38 150 h224 l-18 36H56z"/>
+  <path fill="#1d4ed8" d="M38 150l18 10v26l-18 10V150zm262 0l-18 10v26l18 10V150z" opacity=".45"/>
+  <text x="150" y="176" text-anchor="middle" fill="#fff" font-family="system-ui,Segoe UI,sans-serif" font-size="11" font-weight="800" letter-spacing="0.05em">TOP SAAS DEVELOPMENT COMPANY</text>
+  <text x="150" y="248" text-anchor="middle" fill="#64748b" font-family="system-ui,Segoe UI,sans-serif" font-size="13" font-weight="600">goodfirms.co</text>
+</svg>
