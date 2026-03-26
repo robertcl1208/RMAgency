@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "dev:lan": "next dev --hostname 0.0.0.0 --port 3000",
+    "firewall:dev": "powershell -ExecutionPolicy Bypass -File ./scripts/open-windows-dev-server-firewall.ps1",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
