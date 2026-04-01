@@ -6,6 +6,14 @@ import type { NextConfig } from "next";
  * - Page starts loading but never finishes → dev-only asset blocking; `allowedDevOrigins` below fixes typical private LAN hostnames.
  */
 const nextConfig: NextConfig = {
+  async rewrites() {
+    return [
+      {
+        source: '/api/:path*',
+        destination: `${process.env.BACKEND_URL || 'http://localhost:4000'}/api/:path*`,
+      },
+    ];
+  },
   // Dev-only: allow browsers that open the site via LAN IP or *.local (mDNS) so /_next/* and HMR are not 403’d.
   // Entries are hostnames only (no scheme/port), per Next.js allowedDevOrigins.
   allowedDevOrigins: [
